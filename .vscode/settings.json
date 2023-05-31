@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "everest.h": "c",
+    "lvgl.h": "c",
+    "styles.h": "c"
+  }
+}
