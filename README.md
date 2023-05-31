@@ -1,4 +1,4 @@
-# 21b - APS2 - Embarcados
+# Computação Embarcada - Ciclomonitor Everest
 
 O marketing de uma empresa de equipamentos esportivos quer criar um novo ciclocomputador e você foi escolhido como desenvolvedor autônomo, dado seu background técnico e de UX, para criar um protótipo e validar a ideia.
 
